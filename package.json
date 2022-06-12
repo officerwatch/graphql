@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "graphql": "^15.8.0",
+    "ipfs-http-client": "^57.0.1",
+    "web3": "^1.7.3"
+  }
+}
